@@ -18,7 +18,7 @@
 
     <script>
 
-        fetch('1.json')
+        fetch('Tarea.json')
         .then (response => response.json())
         .then( json => {
             document.getElementById("accion").innerHTML=json.acciones[1] + json.partes[2] + json.lado[1];
