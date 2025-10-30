@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Corporalidades Interactivas</title>
+</head>
+<body>
+
+    <h1>Corporalidades Interactivas</h1>
+    <p>Jason dice que debes de: </p>
+
+<div>
+    <p><span id="accion"></span></p>
+</div>
+<img src="dibujos.jpg" alt="Kuerpo">
+
+    <script>
+
+        fetch('1.json')
+        .then (response => response.json())
+        .then( json => {
+            document.getElementById("accion").innerHTML=json.acciones[1] + json.partes[2] + json.lado[1];
+            console.log(json);
+        })
+
+    </script>
+
+   <!-- <script src="Jason.js"></script> -->
+
+</body>
+</html>
