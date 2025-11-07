@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Galería con Supabase</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <h1>Galería</h1>
+
+  <div class="upload-area">
+    <input type="file" id="photoInput" accept="image/*">
+    <button id="uploadBtn">Subir Foto</button>
+    <div id="previewContainer"></div>
+  </div>
+
+  <h2>Galería Global</h2>
+  <div class="gallery" id="gallery"></div>
+</body>
+</html>

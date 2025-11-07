@@ -21,7 +21,7 @@
         fetch('Tarea.json')
         .then (response => response.json())
         .then( json => {
-            document.getElementById("accion").innerHTML=json.acciones[1] + json.partes[2] + json.lado[1];
+            document.getElementById("accion").innerHTML=json.acciones[0] + json.partes[1] + json.lado[1];
             console.log(json);
         })
 
