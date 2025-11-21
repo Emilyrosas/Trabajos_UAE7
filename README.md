@@ -1,6 +1,8 @@
 # Trabajos_UAE7
 
-# Roseline Emily Zepeda Rosas UEA7 Producción y comunicación en la cultura colaborativa Arte y Comunicación Digital
+# Roseline Emily Zepeda Rosas 
+# UEA7 Producción y comunicación en la cultura colaborativa 
+# Arte y Comunicación Digital
 
 
 ## Objetivos del repositorio
