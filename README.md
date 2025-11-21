@@ -1,6 +1,6 @@
 # Trabajos_UAE7
 
-# Roseline Emily Zepeda Rosas  UEA7 Producción y comunicación en la cultura colaborativa  Arte y Comunicación Digital
+# Roseline Emily Zepeda Rosas        UEA7 Producción y comunicación en la cultura colaborativa        Arte y Comunicación Digital
 
 
 ## Objetivos del repositorio
@@ -15,3 +15,9 @@ La experimentación de código me permite descubrir diferentes caminos para un m
 ## Organización del repositorio
 
 La organización es muy básica, tengo carpetas para cada una de las tareas, están seriadas para una mejor distribución. Para las tareas empleó el index, style y js, puede variar el nombre pero siempre están presente los 3. Fuera de las carpetas tengo un index, style y js, esto para la experimentación o despliegue de mi página.
+
+# Experiencia personal 
+
+Mi experiencia en la creación de repositorios se remonta hace unos 2 años, todo este tiempo me ha permitido aprender demasiado junto con las clases, mis profesores, mis equipos de trabajo y mis proyectos personales. Podría decir que me ha acompañado la mayor parte de mi carrera universitaria, y la mayor parte de este tiempo he sido yo quien ha dirigido los repositorios de mis equipos.
+
+También he cambiado mi forma de ver el código y la programación, github con sus herramientas permite que la creación de páginas sea más accesible para todas las personas sin importar su rubro, ya sea para aprender, programar o descargar cualquier tipo de programas.
